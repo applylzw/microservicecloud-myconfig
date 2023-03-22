@@ -13,3 +13,4 @@ spring:
   profiles: test #   测试环境
   application:
     name: microservicecloud-config-atguigu-test
+#用utf8编码
